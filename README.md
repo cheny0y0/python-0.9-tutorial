@@ -5,6 +5,9 @@
 1. [Download the archive](https://www.python.org/ftp/python/src/Python-0.9.1.tar.gz), or by command `wget https://www.python.org/ftp/python/src/Python-0.9.1.tar.gz`.
 2. Extract it to a directory.
 3. Change directory into “src”.
+4. Type `make` and execute it. If you do not install “make”, please install it.
+5. Type `./python` to run the interactive shell.  
+You can add this directory to $PATH.
 
 ## You can also view the “doc” directory for more info.
 
