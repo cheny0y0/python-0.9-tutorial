@@ -24,4 +24,16 @@ Hello world
 7
 8
 9
+>>> # “while” statement
+>>> a = 0
+>>> while a < 5 :
+...     a = a + 1
+...     print a
+... 
+1
+2
+3
+4
+5
+>>>
 ```
