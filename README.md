@@ -40,5 +40,8 @@ Hello world
 3
 4
 5
->>>
+>>> # “if” statement
+>>> if 2 + 3 = 5: print '2 plus 3 is equal to 5'
+... 
+2 plus 3 is equal to 5
 ```
