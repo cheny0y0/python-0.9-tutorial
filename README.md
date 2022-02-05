@@ -7,3 +7,21 @@
 3. 
 
 ## Basic Syntax of Python 0.9
+```python0
+>>> # Print text
+>>> print 'Hello world'
+Hello world
+>>> # “for” statement
+>>> for i in range(10): print i
+... 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+```
