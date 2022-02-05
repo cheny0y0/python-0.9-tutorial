@@ -4,7 +4,9 @@
 
 1. [Download the archive](https://www.python.org/ftp/python/src/Python-0.9.1.tar.gz), or by command `wget https://www.python.org/ftp/python/src/Python-0.9.1.tar.gz`.
 2. Extract it to a directory.
-3. 
+3. Change directory into “src”.
+
+## You can also view the “doc” directory for more info.
 
 ## Basic Syntax of Python 0.9
 ```python0
